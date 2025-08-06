@@ -1,3 +1,0 @@
-## Simple Currency Converter Agent
-
-
